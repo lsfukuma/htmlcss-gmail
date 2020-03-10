@@ -13,6 +13,7 @@ body {
     text-align: left;
     background-image: url(img/bamboo.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 header{
@@ -33,6 +34,7 @@ header h1 {
 
 #Circolo  {
     border-radius: 50%;
+    padding: 2px;
     display: inline-block;
     height: 30px;
     width: 30px;
