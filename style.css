@@ -59,12 +59,14 @@ main {
 
 .mail {
     border: 2px solid black;
+    padding: 1px;
     border-bottom: 1px;
     background: lightgray;
 }
 
 #letto {
     border: 2px solid black;
+    padding: 1px;
     background: white;
 }
 
