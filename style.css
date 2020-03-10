@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2%;
+    align-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: lightgray;
+    text-align: left;
+    background-image: url(img/bamboo.jpg);
+    background-size: cover;
+}
+
+header{
+    padding-bottom: 2%;
+    border-bottom: 2px solid white;
+}
+
+header img {
+    vertical-align: middle;
+}
+
+header h1 {
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+#Circolo  {
+    border-radius: 50%;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+	background:orange;
+    text-align: center;
+}
+
+section{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    line-height: 30px;
+    border-bottom: 2px solid white;
+    font-weight: bold;
+    color:  #004d00;
+}
+
+main {
+    border-bottom: 2px solid white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.mail {
+    border: 2px solid black;
+    border-bottom: 1px;
+    background: lightgray;
+}
+
+#letto {
+    border: 2px solid black;
+    background: white;
+}
+
+footer {
+    font-size: 15px;
+    margin-left: 50%;
+    margin-top: 2%;
+    font-style: italic;
+}
